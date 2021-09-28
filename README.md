@@ -8,3 +8,7 @@ Python Programming Languge
 Jupyter Notebook 
 
 
+## Task Description 
+Create a parsing tool that takes the example config file (provided below) and turns it into a usable object in the language of your choice (hash, JSON object, associative array, class, etc). 
+
+
