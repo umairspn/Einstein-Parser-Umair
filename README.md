@@ -19,6 +19,7 @@ Name = Value (with valid type)
 
 ### Complexity
 Time Complexity: O(N) since we iterate only once over the given file 
+
 Space Complexity: O(N) since we store the entire config file into a Hash/Dictionary 
 
 ### Code Optimization 
